@@ -1,0 +1,101 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{harris2010}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=cfe261d732d73c710ecb9e08b1f94a83}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=511454c9aacefdb8bf2dd9cc43eaa05e}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Mark\bibnamedelima W},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f00e6a60778a3c7fc61a4d5e1d354d7d}{%
+           family={Lanting},
+           familyi={L\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=97c2771ffba16fe63b7cf0758bec1785}{%
+           family={Berkley},
+           familyi={B\bibinitperiod},
+           given={AJ},
+           giveni={A\bibinitperiod}}}%
+        {{hash=439ac6bb33a9114db34f44025468a690}{%
+           family={Johansson},
+           familyi={J\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=4fe8df7d7fa72204146de072f72b1739}{%
+           family={Bunyk},
+           familyi={B\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=6ea9e6bddf9df4ee8dc672727730cb96}{%
+           family={Tolkacheva},
+           familyi={T\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6551e7f441a7b25687c0f82914f2735a}{%
+           family={Ladizinsky},
+           familyi={L\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=83affe292fc46968024eef9b8ca27bd8}{%
+           family={Ladizinsky},
+           familyi={L\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=6e1e942fb48e9c6bc05c337feb98537c}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{6f378d99697d36c82acabf2fcfd6c7b1}
+      \strng{fullhash}{b998325ace943e7183d3bad3a3b4c18e}
+      \strng{bibnamehash}{6f378d99697d36c82acabf2fcfd6c7b1}
+      \strng{authorbibnamehash}{6f378d99697d36c82acabf2fcfd6c7b1}
+      \strng{authornamehash}{6f378d99697d36c82acabf2fcfd6c7b1}
+      \strng{authorfullhash}{b998325ace943e7183d3bad3a3b4c18e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review B}
+      \field{number}{2}
+      \field{title}{Experimental investigation of an eight-qubit unit cell in a superconducting optimization processor}
+      \field{volume}{82}
+      \field{year}{2010}
+      \field{pages}{024511}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

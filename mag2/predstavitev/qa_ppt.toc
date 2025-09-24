@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Universality of Ising model}{6}{0}{2}
+\beamer@sectionintoc {3}{Quantum annealing}{8}{0}{3}
+\beamer@sectionintoc {4}{Equilibrium quantum simulation}{15}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{21}{0}{5}
